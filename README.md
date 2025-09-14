@@ -9,5 +9,3 @@
 - fact: **i'm going insane 🤣✌️**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xancuh&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="xancuh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xancuh&show_icons=true&locale=en" alt="xancuh" /></p>
