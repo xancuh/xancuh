@@ -1,6 +1,6 @@
 <h1 align="center">hey! im north.</h1>
 <h3 align="center">i make stuff</h3>
-- im working on: [lunora](https://yoblox.vip/)
+- im working on: lunora (https://yoblox.vip/)
 
 - im learning: **svelte**
 
